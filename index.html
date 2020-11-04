@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Flower Advisor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   <div class="header">
+       <input type="text" value="HELLOW10" id="pilih" readonly />
+        <button style="background-color: #90230B;" type="button" onclick="copy_text()">Copy</button>
+     <img src="asset/image/appstore.png">
+   </div>
+   <script type="text/javascript">
+    function copy_text() {
+        document.getElementById("pilih").select();
+        document.execCommand("copy");
+        alert("Code berhasil dicopy");
+    }
+</script>
+</head>
+<body>
+	<div id="content">
+           <article class="card">
+               <h2>Terms and Conditions</h2>
+                <div>
+                  <p>1. Promotion ends on october 31, 2020</p>
+                  <p>2. item will be discounted after discount code is applied. discount code: <b>HALLOW10</b></p>
+                  <p>3. Not applicable for add-on item, delivery charges, and special discounted product</p>
+                  <p>4. not valid in conjuction with any other promotion, offers, discounts and voucher</p>
+                </div>
+                <div class="tombol">
+                  <button class="button button1">Make Someone's Day</button>
+                </div>
+           </article>
+  </div>
+
+  <div id="content">
+           <article class="card1">
+               <img src="https://img.floweradvisor.com/images/floweradvisor.svg"/>
+               <div class="page2">
+                        <p>FlowerAdvisor menyediakan berbagai macam dan jenis produk best seller, mulai dari buket bunga, bunga papan, table flowers, hingga bloom box. Pada umumnya, setiap pembeli memiliki pilihan produk favorit yang berbeda-beda. Namun, di antara banyaknya produk yang dijual, ada beberapa produk yang paling laris.</p>
+               </div>
+           </article>
+  </div>
+	
+
+</body>
+</html>
