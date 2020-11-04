@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' rel='stylesheet'>
+	<link href='style1.css' rel='stylesheet'>
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+	<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js'></script>
+	<script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js'></script>
+	<script type='text/javascript' src="jquery.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+</head>
+<body oncontextmenu='return false' class='snippet-body'>
+                             <!--Slick Carousel Slider-->
+ <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
+ <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+ <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+ 
+
+ <div class="items">
+     <div><img src="https://img.floweradvisor.com/p/t/a-bouquet-of-3-red-roses-with-fillers-fa3528-022"></div>
+     <div><img src="https://img.floweradvisor.com/p/a-bouquet-of-1-red-rose-with-pink-baby-roses-and-fa3526-018"></div>
+     <div><img src="https://img.floweradvisor.com/p/t/a-bouquet-of-1-white-rose-with-fillers-fa3522-015"></div>
+     <div><img src="https://img.floweradvisor.com/p/t/rainbow-baby-breat-with-bear-in-bouquet-fa105552-002"></div>
+     <div><img src="https://img.floweradvisor.com/p/t/a-bouquet-of-6-sunflowers-with-fillers-fa104102-021"></div>
+     <div><img src="https://img.floweradvisor.com/p/t/mini-vase-dried-flowers-fa18327-009"></div>
+     <div><img src="https://img.floweradvisor.com/p/roses-cymbidium-hydrangea-and-baby-breath-with-fa106586-003"></div>
+     <div><img src="https://img.floweradvisor.com/p/roses-statis-hydrangea-baby-breath-and-lily-fa106589-005"></div>
+ </div>
+</body>
+</html>
